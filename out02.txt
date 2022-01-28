@@ -1,0 +1,859 @@
+214.05	San Jose
+153.57	Fort Worth
+66.08	San Diego
+493.51	Pittsburgh
+235.63	Omaha
+247.18	Stockton
+379.6	Austin
+296.8	New York
+25.38	Corpus Christi
+213.88	Fort Worth
+53.26	Las Vegas
+39.75	Newark
+469.63	Austin
+290.82	Greensboro
+260.65	San Francisco
+136.9	Lincoln
+483.82	Buffalo
+215.82	San Jose
+418.94	Boston
+309.16	Houston
+93.39	Las Vegas
+376.11	Virginia Beach
+252.88	Riverside
+205.06	Tulsa
+88.25	Reno
+31.08	Chicago
+370.55	Fort Wayne
+170.2	San Bernardino
+16.78	Madison
+327.75	Austin
+108.69	Portland
+15.41	Riverside
+80.46	Reno
+298.86	Anchorage
+475.26	Pittsburgh
+3.85	Spokane
+287.65	Spokane
+466.64	Fresno
+255.68	Omaha
+6.38	Anchorage
+117.81	Aurora
+351.31	Philadelphia
+222.61	Fremont
+22.36	Anchorage
+189.01	Norfolk
+414.08	Chandler
+182.05	Minneapolis
+345.18	Honolulu
+135.96	Indianapolis
+344.09	Chandler
+33.13	Saint Paul
+18.27	New York
+140.94	Greensboro
+157.48	Spokane
+350.55	Boise
+196.83	Fresno
+425.79	Durham
+472.71	Riverside
+359.29	Lexington
+131.97	Durham
+134.33	Garland
+302.69	Kansas City
+254.62	Atlanta
+130.54	Boise
+153.84	New York
+2	Riverside
+100.38	San Bernardino
+460.38	Wichita
+107.94	Santa Ana
+157.08	New Orleans
+243.05	Fremont
+46.99	Pittsburgh
+9.47	Memphis
+16.15	Chicago
+271.56	Virginia Beach
+387.75	Omaha
+367.76	Tucson
+297.43	Nashville
+392.81	Washington
+11.96	Greensboro
+20.07	Tulsa
+299.55	Cincinnati
+440.11	Charlotte
+127.8	Austin
+390.2	Anchorage
+440.7	Albuquerque
+294.98	Santa Ana
+418.91	Milwaukee
+359.65	Jacksonville
+371.21	Phoenix
+368.42	Anchorage
+480.24	Norfolk
+125.35	San Antonio
+242.31	New Orleans
+278.61	Riverside
+152.9	St. Petersburg
+452.07	Lubbock
+59.08	Toledo
+155.33	Oakland
+332.48	Philadelphia
+419.06	Scottsdale
+423.12	Chandler
+25.74	San Diego
+66.07	Anaheim
+482.94	Lincoln
+11.29	Jersey City
+215.22	Santa Ana
+482.97	Philadelphia
+322.37	Minneapolis
+103.01	El Paso
+366.56	Boston
+257.67	Washington
+483.1	Austin
+437.19	Tampa
+31.79	Boston
+427.43	Cleveland
+400.08	Arlington
+461.48	Fresno
+133.57	Kansas City
+489.8	Phoenix
+84.4	Riverside
+392.5	Columbus
+23.83	Cincinnati
+461.11	Houston
+293.16	Kansas City
+360.34	Fort Worth
+314.1	Raleigh
+366.13	Lubbock
+481.32	Seattle
+306.01	Greensboro
+134.89	Detroit
+75.73	Rochester
+339.77	Jersey City
+333.15	Omaha
+345.1	Jacksonville
+467.62	Nashville
+164.38	Omaha
+273.49	Dallas
+98.23	Long Beach
+461.2	Scottsdale
+446.19	Lexington
+39.82	Honolulu
+255.59	Pittsburgh
+47.38	Memphis
+58.66	Memphis
+364.24	Kansas City
+274.99	Lexington
+350.97	Toledo
+114.9	Jersey City
+173.72	Denver
+331.68	Houston
+314.05	Mesa
+160.9	Madison
+304.16	Santa Ana
+74.71	Gilbert
+203.43	Jacksonville
+299.3	Gilbert
+453.07	Seattle
+62.14	Reno
+138.93	Saint Paul
+217.79	Bakersfield
+343.04	Chesapeake
+220.63	Glendale
+422.56	Durham
+382.41	New Orleans
+332.58	Honolulu
+467.48	Chandler
+208.69	Boston
+7.98	Baltimore
+239.49	Denver
+390.35	Lubbock
+357.1	San Diego
+409.26	North Las Vegas
+92.93	Lincoln
+191.28	Miami
+94.3	Phoenix
+140.47	Miami
+208.16	Irvine
+337.8	Madison
+37.77	Los Angeles
+60.92	Fresno
+206.82	Tulsa
+422	Jacksonville
+484.24	Albuquerque
+449.7	Memphis
+98.92	Chicago
+336.28	New Orleans
+48.34	Anaheim
+160.07	Orlando
+346.66	Oakland
+400.35	Fort Worth
+361.66	Winston–Salem
+88.56	Boston
+34.54	St. Petersburg
+195.18	Toledo
+308.53	Lubbock
+149.94	Albuquerque
+70.75	Mesa
+435.3	Omaha
+333.31	Chesapeake
+111.32	Louisville
+442.79	San Francisco
+329.03	Jersey City
+163.57	Irving
+4.4	Lexington
+105.56	Cleveland
+176.98	Hialeah
+481.52	Dallas
+495.81	Toledo
+337.71	San Jose
+487.86	Milwaukee
+129.79	Kansas City
+326.88	New York
+152.94	Las Vegas
+230.81	Spokane
+443.46	Raleigh
+183.38	Houston
+411.46	Winston–Salem
+247.4	Tucson
+269.7	Baltimore
+102.79	Lubbock
+181.96	Plano
+274.88	Norfolk
+318.25	Charlotte
+257.19	New York
+49.61	Reno
+286.88	Tampa
+282.6	Boston
+259.14	Philadelphia
+235.9	Lincoln
+325.19	Jacksonville
+411.08	San Francisco
+173.44	Toledo
+293.04	Corpus Christi
+255.96	Honolulu
+496.04	Lubbock
+423.52	Scottsdale
+255.28	Louisville
+296.45	Durham
+87.86	Lexington
+106.08	Minneapolis
+26.72	El Paso
+42.48	Long Beach
+137.64	Charlotte
+102.39	Winston–Salem
+447.8	Anaheim
+160.96	Oakland
+57.3	Dallas
+428.78	Santa Ana
+157.59	Memphis
+408.1	Charlotte
+405.18	Nashville
+347.48	Oakland
+467.63	Baltimore
+142.24	Columbus
+89.34	St. Petersburg
+375.07	Seattle
+398.46	San Bernardino
+296.63	Wichita
+27.56	Mesa
+341.43	Anaheim
+162.97	Seattle
+308.4	Baltimore
+64.95	Washington
+189.88	Denver
+336.92	Tulsa
+336.38	San Antonio
+162.52	Oklahoma City
+0.71	Garland
+450.71	Houston
+353.58	Seattle
+363.83	Rochester
+33.89	Tampa
+150.73	Lexington
+17.12	Fremont
+25.46	Arlington
+11.54	Mesa
+274.68	Anaheim
+331.38	Irving
+347.62	Baton Rouge
+368.94	Bakersfield
+397.95	Toledo
+11.25	Chula Vista
+366.12	North Las Vegas
+270.85	Mesa
+178.48	Nashville
+46.07	Jersey City
+208.7	Virginia Beach
+495.4	Oklahoma City
+331.7	Birmingham
+292.35	Atlanta
+301.4	New York
+199.67	Glendale
+11.22	Greensboro
+48.45	Nashville
+237.29	Tampa
+322.19	Lubbock
+297.72	Rochester
+188.46	San Diego
+457.96	Nashville
+340.32	Washington
+221.79	Baltimore
+187.28	Riverside
+297.13	Corpus Christi
+415.36	Irvine
+191.65	Baltimore
+460.68	El Paso
+485.96	Corpus Christi
+59.72	Nashville
+343.49	Spokane
+39.26	Kansas City
+25.59	Houston
+106.57	Long Beach
+407.53	Birmingham
+216.99	Cincinnati
+25.72	Portland
+438.7	Greensboro
+298.76	St. Louis
+169.4	Jersey City
+403.7	Columbus
+164.92	Honolulu
+393.76	North Las Vegas
+30.36	Scottsdale
+380.75	Winston–Salem
+243.99	San Bernardino
+192.48	Albuquerque
+397.36	Richmond
+456.53	Anaheim
+111.36	Irving
+197.37	Columbus
+163.28	Colorado Springs
+142.02	Indianapolis
+68.44	Washington
+91.01	Bakersfield
+305	Albuquerque
+263.44	Houston
+13.49	Durham
+203.84	Richmond
+7.06	Greensboro
+120.64	Fremont
+484.16	Greensboro
+477.91	Boston
+260.12	San Antonio
+275.79	Philadelphia
+465.46	Chicago
+452.04	Nashville
+220.18	Lubbock
+199.42	Irving
+3.85	Chesapeake
+492.96	Scottsdale
+344.08	Buffalo
+21.53	Anaheim
+127.16	Tulsa
+326.11	Albuquerque
+283.99	Fort Wayne
+314.08	Lincoln
+183.24	St. Petersburg
+105.47	Indianapolis
+317.72	Louisville
+19.99	Reno
+118.46	Anchorage
+105.3	Irvine
+87.49	Irving
+295.9	Scottsdale
+152.12	Irvine
+21.01	Plano
+335.68	Spokane
+84.55	Wichita
+389.23	Chula Vista
+368.69	Birmingham
+465.6	Gilbert
+141.59	Sacramento
+360.81	Boston
+326.29	Fresno
+41.77	Kansas City
+494.66	Columbus
+192.82	San Jose
+109.02	Atlanta
+310.11	Stockton
+85.57	Saint Paul
+303.26	Laredo
+42.43	Sacramento
+112.66	Austin
+371.14	Chesapeake
+233.1	Albuquerque
+154.01	San Francisco
+249.36	Mesa
+124.52	Henderson
+52.72	Seattle
+117.98	New York
+32.96	New Orleans
+485.06	Hialeah
+289.73	Cleveland
+322	Baton Rouge
+165.85	Reno
+498.93	Bakersfield
+222.47	Lubbock
+166.33	Arlington
+28.36	Milwaukee
+1.29	Indianapolis
+82.54	Corpus Christi
+436.01	Omaha
+389.7	Los Angeles
+349.23	Chesapeake
+279.86	Glendale
+203.2	Richmond
+90.8	Cincinnati
+446.96	Sacramento
+284.34	Mesa
+95.81	San Jose
+253.33	San Jose
+358.08	Fort Worth
+82.08	Garland
+357.37	Anaheim
+192.95	Birmingham
+290.43	Albuquerque
+314.21	Raleigh
+498.32	Miami
+145.21	San Bernardino
+243.21	Newark
+388.29	Gilbert
+131.91	Richmond
+478.53	Las Vegas
+133.31	San Francisco
+95	Portland
+206.92	San Francisco
+160.6	San Jose
+76.61	Colorado Springs
+481.23	Jersey City
+437.51	Lincoln
+325.1	Austin
+305.99	Norfolk
+488.65	Raleigh
+300.93	Arlington
+285.57	San Jose
+35.81	Indianapolis
+307.18	Honolulu
+44.25	Anchorage
+465.15	Stockton
+316.25	Tampa
+207.96	Baton Rouge
+486.46	Minneapolis
+295.4	Spokane
+218.58	Sacramento
+406.49	Lincoln
+276.81	Saint Paul
+71.75	Toledo
+368.16	Aurora
+407.49	Detroit
+49.94	Minneapolis
+323.35	Laredo
+80.72	Plano
+255.77	Baltimore
+62.13	Mesa
+99.81	Mesa
+470.16	Fremont
+496.73	Irving
+292.38	Buffalo
+166.08	Oklahoma City
+199.71	Boise
+17.59	Orlando
+467.11	Newark
+395.99	Hialeah
+261.16	Greensboro
+100.38	Fort Worth
+250.46	San Jose
+259.03	Sacramento
+256.25	Aurora
+342.35	Saint Paul
+367.76	Richmond
+81.91	Glendale
+93.74	Chula Vista
+380.67	Los Angeles
+46.48	Richmond
+141.26	Pittsburgh
+326.65	Wichita
+324.14	Toledo
+450.33	Tucson
+182	Portland
+434.94	Dallas
+445.5	Glendale
+113.26	Austin
+371.88	Newark
+28.91	Tucson
+242.29	Denver
+453.16	Colorado Springs
+442.41	Seattle
+170.06	Winston–Salem
+129.06	Phoenix
+47.37	St. Petersburg
+387.9	Baton Rouge
+152.86	Irvine
+478.32	Oklahoma City
+95.59	Chicago
+321.06	Boston
+279.54	Greensboro
+205.79	Minneapolis
+254.39	Corpus Christi
+206.06	Garland
+204.88	San Jose
+359.82	St. Petersburg
+262.5	Portland
+261.53	Minneapolis
+213.39	Washington
+209.46	Chicago
+427.08	Omaha
+84.56	El Paso
+74.11	Reno
+11.98	Toledo
+233.51	New York
+92.43	Henderson
+327.28	Irvine
+110.66	Mesa
+427.22	Madison
+124.85	El Paso
+442.24	Tucson
+216.99	Minneapolis
+144.33	Anchorage
+443.78	Kansas City
+28.37	Baltimore
+314.67	Bakersfield
+473.62	Saint Paul
+276.99	Newark
+146.07	Wichita
+267.76	Memphis
+317.22	Tucson
+17.77	Norfolk
+409.58	Milwaukee
+280.5	Newark
+436.25	Charlotte
+206.27	Kansas City
+113.85	Scottsdale
+434.96	Oakland
+392.13	Chesapeake
+497.17	Henderson
+65.51	Cleveland
+407.37	Pittsburgh
+499.55	Wichita
+378.6	Sacramento
+441.85	Memphis
+60.1	Fort Worth
+188.25	Chicago
+159.31	St. Petersburg
+211.66	San Francisco
+188.79	Madison
+475.65	Aurora
+411.8	Birmingham
+11.63	Baltimore
+210.32	San Antonio
+387.05	Laredo
+349.83	Columbus
+406.11	Chicago
+100.2	Greensboro
+39.72	Fremont
+111.85	Winston–Salem
+209.18	Milwaukee
+12.62	Colorado Springs
+350.91	Saint Paul
+487.35	Fort Worth
+160.88	Omaha
+291.45	Chandler
+354.67	Colorado Springs
+193.01	Durham
+3.9	Oklahoma City
+130.88	Detroit
+461.62	Reno
+332.72	Plano
+267.91	Chicago
+133.61	Columbus
+36.94	San Bernardino
+136.12	San Jose
+166.14	Miami
+96.17	Toledo
+59.53	Seattle
+241.2	Hialeah
+70.36	Toledo
+451.59	Gilbert
+461.34	Hialeah
+357.38	Oakland
+70.37	Rochester
+18.89	Lincoln
+450.6	Anchorage
+329.51	Fremont
+155.66	Las Vegas
+59.31	Anchorage
+421.75	Chandler
+327.04	Detroit
+91.6	Virginia Beach
+329.25	Milwaukee
+271.43	North Las Vegas
+176.29	Norfolk
+300.91	Pittsburgh
+43.02	Winston–Salem
+187.54	New Orleans
+425.54	Nashville
+7.2	Detroit
+370.81	San Francisco
+199.09	Las Vegas
+90.96	Garland
+374.14	Fort Wayne
+450.24	Lexington
+402.55	North Las Vegas
+290.67	Milwaukee
+289.02	Richmond
+295.39	Chandler
+306.41	Lexington
+214.78	Mesa
+269.4	Buffalo
+216.5	Corpus Christi
+149.05	Indianapolis
+418.27	Miami
+469.78	Newark
+86.8	Richmond
+495.97	Aurora
+459.12	Orlando
+93.5	Chicago
+151.46	Gilbert
+221.24	Atlanta
+179.52	Fremont
+91.31	Albuquerque
+315.29	Lexington
+223.58	Columbus
+149.04	Bakersfield
+414.33	Riverside
+183.44	Albuquerque
+110.71	Richmond
+133.16	Fort Worth
+135.7	Houston
+77.32	Durham
+418.26	Austin
+263.28	Las Vegas
+416.07	Raleigh
+390.14	Boston
+348.56	Long Beach
+304.03	San Bernardino
+32.86	Long Beach
+353.26	Memphis
+473.69	Dallas
+197.32	Houston
+24.59	Miami
+307.95	Louisville
+372.74	Chesapeake
+151.64	Scottsdale
+405.12	Chicago
+185.67	Tulsa
+464.15	Houston
+439.22	Buffalo
+366.74	Tucson
+122.17	Madison
+418.26	Winston–Salem
+332.59	Colorado Springs
+24.31	Chandler
+156.21	Rochester
+238.16	San Diego
+454.17	San Bernardino
+184.54	Richmond
+307.82	Tampa
+422.54	Pittsburgh
+48.11	Laredo
+14.62	Oklahoma City
+125.88	Santa Ana
+442.4	Miami
+0.74	Colorado Springs
+131.02	Pittsburgh
+188.5	Omaha
+4.28	Jersey City
+475.82	San Francisco
+29.07	Louisville
+202.7	Madison
+431.34	Rochester
+166.57	Austin
+213.51	Plano
+91.59	Honolulu
+422.91	San Jose
+142.41	Greensboro
+306.84	Las Vegas
+292.62	San Francisco
+294.33	Austin
+294.46	Reno
+230.76	Anchorage
+432.98	Norfolk
+38.67	San Antonio
+228.21	Stockton
+127.19	Tulsa
+289.09	Chandler
+121.24	Houston
+371.98	Greensboro
+274.2	Raleigh
+103.97	Oakland
+236.57	Cincinnati
+304.11	Lubbock
+110.52	Baltimore
+203.82	San Francisco
+393.02	Columbus
+207.88	Greensboro
+245.63	Spokane
+308.08	Plano
+101.49	Seattle
+125.14	Houston
+169.09	Long Beach
+346.35	Boston
+379.66	Fort Worth
+29.41	Chesapeake
+142.77	Scottsdale
+9.89	San Bernardino
+87.49	Las Vegas
+75.58	Portland
+288.66	Boise
+430.34	Los Angeles
+37.42	New Orleans
+348.21	Laredo
+224.09	Norfolk
+418.29	Milwaukee
+268.79	Tucson
+419.92	Chandler
+336.48	Durham
+264.72	Jersey City
+245.79	Baltimore
+199.85	Baton Rouge
+2.55	Phoenix
+453.08	Long Beach
+355.7	Chula Vista
+488.5	Memphis
+144.14	Washington
+80.44	Wichita
+417.42	Honolulu
+411.15	Seattle
+186.6	Austin
+37.11	Fort Wayne
+50.27	Sacramento
+485.49	Birmingham
+126.12	El Paso
+411.54	Baton Rouge
+4.94	San Francisco
+185.9	Chula Vista
+78.78	Lubbock
+51.21	Nashville
+58.09	Jersey City
+456.62	Baltimore
+335.86	Irvine
+259.52	Phoenix
+218.31	Albuquerque
+379.08	Tucson
+32.81	New York
+0.87	St. Louis
+153.44	Tampa
+468.08	Denver
+58.23	Reno
+46.65	Chicago
+432.45	Santa Ana
+277.66	Scottsdale
+16.09	Tampa
+484.31	Atlanta
+143.57	Boise
+210.55	Baton Rouge
+145.38	Virginia Beach
+40.78	Honolulu
+77.06	Detroit
+72.7	Tampa
+215.04	Houston
+181.94	Detroit
+358.35	Henderson
+151.91	Fort Wayne
+423.32	Milwaukee
+76.12	Reno
+50.9	Memphis
+77.33	Gilbert
+15.49	Spokane
+150.99	Oklahoma City
+45.75	Jersey City
+147.41	San Diego
+155.28	Jersey City
+293.71	Winston–Salem
+265.2	Charlotte
+393.68	Cleveland
+393.55	Lincoln
+207.76	Denver
+383.34	New York
+62.12	Kansas City
+267.36	Milwaukee
+403.42	Santa Ana
+211.28	Tampa
+232.11	Tulsa
+71.58	Colorado Springs
+197.64	Phoenix
+102.53	Miami
+61.22	Los Angeles
+84.18	Lincoln
+226.14	Fort Wayne
+19.85	Honolulu
+458.27	Philadelphia
+206.97	Minneapolis
+285.46	Plano
+216.9	Tucson
+451.91	Colorado Springs
+134.61	Kansas City
+266.71	Garland
+470.48	Boise
+460.26	Cincinnati
+16.33	Norfolk
+211.08	Raleigh
+251.11	Richmond
+159.51	St. Louis
+74.16	Milwaukee
+394.52	San Bernardino
+97.16	Sacramento
+74.07	Milwaukee
+36.89	Bakersfield
+477.38	Durham
+446.55	Minneapolis
+369.98	Louisville
+188.8	Boston
+287.47	St. Petersburg
+344.22	Scottsdale
+352.47	Santa Ana
+400.61	Scottsdale
+338.95	New York
+186.56	Fresno
+48.79	Atlanta
+260.28	Stockton
+12.36	Rochester
+334.73	Anchorage
+371.26	Chandler
+269.91	New York
+97.02	Kansas City
+369.87	Lexington
+182.68	New Orleans
+444.15	Jacksonville
+430.02	Boise
+296.6	San Diego
+248.26	Lincoln
+422.78	Irving
+187.85	Jacksonville
+229.74	Lubbock
+135.06	Saint Paul
+395.63	Norfolk
+48.34	Stockton
+282.1	Stockton
+480.9	Scottsdale
+363.52	Chandler
+435.4	Glendale
+481.44	Santa Ana
+252.63	Laredo
+476.33	Santa Ana
+223.4	Philadelphia
+134.46	Philadelphia
+169.33	Arlington
+204.75	Anaheim
+308.47	Plano
+426.43	Phoenix
+427.97	Garland
+37.83	Las Vegas
+23.21	Boise
+267.03	Atlanta
+481.68	Aurora
+418.37	Fresno
+443.37	Oakland
+108.25	Jersey City
+0.18	Baltimore

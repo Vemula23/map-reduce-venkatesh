@@ -1,2 +1,2 @@
 # map-reduce-venkatesh
-This to practice the map and reduce
+This is to practice the map and reduce
