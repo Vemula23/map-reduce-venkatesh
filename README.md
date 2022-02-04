@@ -12,7 +12,7 @@ This is to practice the map and reduce in python.
 - A ***Mapper File*** extracts the team from each row in the dataset, which is used as a ***Key*** and wins for the  ***Values***  .This output is given as input to the ***Sorter File*** which in sort the values and then the ouput of sorter file is given to ***reducer File*** which reduces and then gives the output to ***output.txt*** .
 
 ## Powershell Command:
-- ***cat 202021-reg-tra-player.csv | python 03mapper.py | python 03sorter.py | python 03reducer.py > output.txt*** .
+- ***cat 202021-reg-tra-player.csv | python 03mapper.py | python 03sorter.py | python 03reducer.py > VENKATESHoutput.txt*** .
 
 ## Summary:
 - From the output file we can see that the team UTA has highest number of wins 610 and the lowest wins as the HOU team 184. where as the MEM and GSW has the equal number of wins, in addition to that BOS, CHA and IND are almost having equal numbner of wins.
